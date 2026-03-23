@@ -22,7 +22,7 @@ L1 Support Cases
 4. [Application Access Issue](04-application-access-issue.md)
 
 L2 Support Cases
-1. [User Data Not Updating](L2 - User Data Not Updating.md)
+1. [User Data Not Updating](L2-User-Data-Not-Updating.md)
 
 Each case includes:
 - Issue summary
