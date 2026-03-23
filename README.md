@@ -1,4 +1,4 @@
-# Technical Support & Application Support Portfolio
+# Application Support Portfolio (L1 / L2)
 
 This repository contains practical troubleshooting scenarios demonstrating structured problem investigation and resolution workflows across both L1 (Technical Support) and L2 (Application Support) levels.
 
